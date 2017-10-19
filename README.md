@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/djuarez/Kotlin-CleanArchitecture.svg?branch=master)](https://travis-ci.org/djuarez/Kotlin-CleanArchitecture)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a79e8d4ae95f4333ab329b8e76fbb66c)](https://www.codacy.com/app/MaratIskhakov/Kotlin-CleanArchitecture?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MaratIskhakov/Kotlin-CleanArchitecture&amp;utm_campaign=Badge_Grade)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Kotlin--CleanArchitecture-green.svg?style=true)](https://android-arsenal.com/details/3/3814)
 # Kotlin-CleanArchitecture
 
